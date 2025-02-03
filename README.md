@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/44a6e3c9-f717-4e07-a72f-bcf2972ccdc4)Hello, I'm João Pedro Girelli!
+Hello, I'm João Pedro Girelli!
 
 🚀 About Me
 
@@ -32,4 +32,4 @@ It was also an interesting project about physical collisions developed in 2025
 
 🐦 Twitter: @GirelliJoao
 
-[(https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fmonkey-swinging-on-a-vine-gifs&psig=AOvVaw2ZW0qbcFI_Fej1UuHxctNa&ust=1738704640868000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLCKu9e5qIsDFQAAAAAdAAAAABAE)]
+![image](https://github.com/user-attachments/assets/44a6e3c9-f717-4e07-a72f-bcf2972ccdc4)

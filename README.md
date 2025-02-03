@@ -1,16 +1,33 @@
-## Hi there 👋
+Hello, I'm João Pedro Girelli!
 
-<!--
-**Girelli56617/Girelli56617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+💻 I code primarily in C and enjoy working on OpenGL projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Interested in graphics programming, low-level systems, and optimizations.
+
+🌱 Currently exploring Model loading and performance tuning.
+
+🛠️ Tech Stack
+
+Languages: C, C++, Python, JavaScript
+
+Technologies: OpenGL, SDL, SFML, Node.js
+
+Tools: Git, Make, CMake, VS Code
+
+📌 Featured Projects
+
+🔹 The X of question: 
+Was an interesting biology educational game that I developed back in 2023
+
+🔹 The glutCollisonsProject: 
+It was also an interesting project about physical collisions developed in 2025 
+
+📫 Let's Connect
+
+📧 Email: joaopedrogirelli25@gmail.com
+
+🔗 LinkedIn: João Pedro Girelli
+
+🐦 Twitter: @GirelliJoao

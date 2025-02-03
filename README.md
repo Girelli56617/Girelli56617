@@ -32,4 +32,4 @@ It was also an interesting project about physical collisions developed in 2025
 
 🐦 Twitter: @GirelliJoao
 
-![gif](https://github.com/user-attachments/assets/44a6e3c9-f717-4e07-a72f-bcf2972ccdc4)
+![gif](gollwer-monkey.gif)

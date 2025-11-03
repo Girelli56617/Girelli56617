@@ -2,7 +2,7 @@ Hello, I'm João Pedro Girelli!
 
 🚀 About Me
 
-💻 I code primarily in C and enjoy working on OpenGL projects.
+💻 I code primarily in C and C++ and enjoy working on OpenGL projects/Graphical programming as a whole.
 
 🎯 Interested in graphics programming, low-level systems, and optimizations.
 
